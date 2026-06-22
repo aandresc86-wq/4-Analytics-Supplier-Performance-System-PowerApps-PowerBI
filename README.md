@@ -12,11 +12,12 @@ Companies managing multiple suppliers require a standardized and data-driven app
 
 ---
 
-## ✅ Business Impact  
-- Streamlined supplier evaluation processes through digitalization  
-- Provided centralized visibility of supplier performance metrics  
-- Enabled data-driven supplier selection and risk management  
-- Reduced manual data handling and improved data consistency  
+## 💼 Business Impact
+- Improved **supplier evaluation efficiency**
+- Reduced manual data collection processes  
+- Enabled **real-time supplier performance monitoring**
+- Enhanced **data-driven decision-making**
+- Standardized evaluation methodology across the organization  
 
 ---
 
@@ -140,15 +141,6 @@ The solution enables:
 - **KPI Tracking**
 - **Dashboard Development**
 - **Performance Analytics**
-
----
-
-## 💼 Business Impact
-- Improved **supplier evaluation efficiency**
-- Reduced manual data collection processes  
-- Enabled **real-time supplier performance monitoring**
-- Enhanced **data-driven decision-making**
-- Standardized evaluation methodology across the organization  
 
 ---
 
